@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pr1mEHub
+- 👋 Hi, I’m @Prime-exe
 - 👀 I’m interested in Modding, Development and Reverse Engineering
 - 🌱 I’m currently learning C# and Python
 - 📫 How to reach me - thomasjones2004@gmail.com
