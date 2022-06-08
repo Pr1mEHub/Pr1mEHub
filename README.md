@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Pr1mEHub
+- 👀 I’m interested in Modding, Development and Reverse Engineering
+- 🌱 I’m currently learning C# and Python
+- 📫 How to reach me - thomasjones2004@gmail.com
+- I'm New to Software Development, but I hope to increase my skills tremendously!
